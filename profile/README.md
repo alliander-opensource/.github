@@ -9,4 +9,4 @@ If you want to get involved, please have a look around in this GitHub organizati
 Check out https://www.lfenergy.org/projects/ for the open source projects that we develop in collaboration with LF Energy (e.g. [Power Grid Model](https://github.com/PowerGridModel), [OpenSTEF](https://github.com/OpenSTEF), [CoMPAS](https://github.com/com-pas), [OpenSCD](https://github.com/openscd), [OperatorFabric](https://github.com/opfab), [Shapeshifter](https://github.com/shapeshifter), and [Grid eXchange Fabric](https://github.com/OSGP/open-smart-grid-platform)).
 
 ## For Alliander employees
-Please visit the [Alliander OSPO wiki](https://alliander.atlassian.net/wiki/spaces/OOSPO/pages/3181317403/Starten+met+Open+Source+ontwikkelen) for more information on how we do open source at Alliander and the open source guidelines.
+Please visit the [Alliander OSPO wiki](https://alliander.atlassian.net/wiki/spaces/OOSPO/pages/3181317403/Starten+met+Open+Source+ontwikkelen) to learn more about how we do open source at Alliander and Alliander's open source guidelines.
